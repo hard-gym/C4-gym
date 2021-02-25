@@ -1,5 +1,4 @@
 //完全抄书上的，题目看不懂π_π
-
 class Message{
     private String title;
     private String content;
